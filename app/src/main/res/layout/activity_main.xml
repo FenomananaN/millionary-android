@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorPrimary"
+    >
+
+
+    <TextView
+        android:paddingTop="19dp"
+        android:paddingLeft="5dp"
+        android:paddingBottom="5dp"
+        android:background="?attr/colorPrimary"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:id="@+id/bar"
+        android:text="?attr/app_name"
+        style="@style/Casual"
+        />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_below="@+id/bar"
+        android:background="#ffffff"
+        />
+
+    <TextView
+
+        android:layout_marginTop="9dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bar"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:id="@+id/TextView"
+        android:gravity="center"
+        android:text="QUIZ MADAGASIKARA"
+        style="@style/Casual"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        >
+
+        <Button
+            android:textStyle="bold"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="?attr/colorPrimary"
+            android:text="?attr/Hilalao"
+            android:onClick="btn"
+            android:drawableLeft="@drawable/ic_x_box_gamepad_svgrepo_com"
+            android:background="@drawable/button_main"
+            android:id="@+id/btn"
+            style="@style/Casual" />
+        <Button
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/btn"
+            android:textStyle="bold"
+            android:textColor="?attr/colorPrimary"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="?attr/Isa_farany_ambony"
+            android:drawableLeft="@drawable/ic_ranking_rank_svgrepo_com"
+            android:onClick="btn1"
+            android:background="@drawable/button_main"
+            android:id="@+id/btn1"        style="@style/Casual"/>
+        <Button
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/btn1"
+            android:textStyle="bold"
+            android:textColor="?attr/colorPrimary"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="?attr/Contacteo_aho"
+            android:onClick="btn2"
+            android:background="@drawable/button_main"
+            style="@style/Casual"
+            android:id="@+id/btn2"/>
+        <Button
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/btn2"
+            android:textColor="?attr/colorPrimary"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="?attr/Fanampiana"
+            android:drawableLeft="@drawable/ic_exit_svgrepo_com_3_"
+            style="@style/Casual"
+            android:onClick="btn3"
+            android:background="@drawable/button_main"
+            android:id="@+id/btn3"/>
+
+        <Button
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/btn3"
+            android:textColor="?attr/colorPrimary"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="?attr/Setting"
+            android:drawableLeft="@drawable/ic_gear_svgrepo_com_1_"
+            style="@style/Casual"
+            android:onClick="btn5"
+            android:background="@drawable/button_main"
+            android:id="@+id/btn5"/>
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/btn5"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="?attr/Hiala"
+            android:drawableLeft="@drawable/ic_exit_svgrepo_com_3_"
+            style="@style/Casual"
+            android:onClick="btn4"
+            android:background="@drawable/button_main_quit"
+            android:id="@+id/btn4"/>
+    </RelativeLayout>
+</RelativeLayout>
+
+

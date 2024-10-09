@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--     <attr name="" format="" />   -->
+    <attr name="background_mety" format="color" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorToast" format="color" />
+    <attr name="white" format="color" />
+    <attr name="textSize" format="dimension" />
+
+    <attr name="app_name" format="string" />
+
+    <!--          Main           -->
+    <attr name="Hilalao" format="string" />
+    <attr name="Isa_farany_ambony" format="string" />
+    <attr name="Contacteo_aho" format="string" />
+    <attr name="Fanampiana" format="string" />
+    <attr name="Setting" format="string" />
+    <attr name="Hiala" format="string" />
+    <!--         Second           -->
+    <attr name="Enter_Anarana" format="string" />
+    <attr name="Ny_anaranao" format="string" />
+    <attr name="fitsipika" format="string" />
+    <attr name="IrayFanotaniana" format="string" />
+    <attr name="IrayIsa" format="string" />
+    <attr name="dimyarivo" format="string" />
+    <attr name="Noho_izany" format="string" />
+    <attr name="vintana" format="string" />
+    <attr name="Milalao1" format="string" />
+    <!--         End Second           -->
+
+    <!--         third           -->
+    <attr name="highest" format="string" />
+    <attr name="Telo" format="string" />
+    <attr name="avaozina" format="string" />
+    <!--         End third           -->
+
+    <!--         Fourth           -->
+    <attr name="note" format="string" />
+    <attr name="momba" format="string" />
+    <attr name="fifandraisana" format="string" />
+
+    <!--         End Fourth           -->
+
+    <!--         Fifth           -->
+    <attr name="Non_Disponible" format="string" />
+    <attr name="beta" format="string" />
+    <!--         End Fifth           -->
+
+
+    <!--         Sixth           -->
+    <attr name="Question" format="string" />
+    <attr name="Isan_ny_marina" format="string" />
+    <attr name="Diso" format="string" />
+    <!--         End Sixth          -->
+
+    <!--         Seven           -->
+    <attr name="naoty" format="string"/>
+    <attr name="bilan" format="string"/>
+    <attr name="ambony" format="string"/>
+    <attr name="lalao_vaovao" format="string"/>
+    <attr name="hanohy" format="string"/>
+
+    <!--         End Seventh           -->
+</resources>

@@ -1,0 +1,193 @@
+<resources>
+        <string name="app_name">Miliaridera v2.0.1</string>
+        <string name="app_name_EN">Billionary v2.0.1</string>
+        <string name="app_name_FR">Millionaire v2.0.1</string>
+
+
+        <!--                 Mainn.                 -->
+        <string name="Hilalao">Hilalao</string>
+        <string name="Hilalao_EN">New Game</string>
+        <string name="Hilalao_Fr">Jouez</string>
+
+        <string name="Isa_farany_ambony">Isa farany ambony</string>
+        <string name="Isa_farany_ambony_EN">High Score</string>
+        <string name="Isa_farany_ambony_FR">Meilleur Score</string>
+
+        <string name="Contacteo_aho">Fifandraisana</string>
+        <string name="Contacteo_aho_EN">Contact Me</string>
+        <string name="Contacteo_aho_FR">Contacte Moi</string>
+
+        <string name="Fanampiana">Fanampiana</string>
+        <string name="Fanampiana_EN">Help</string>
+        <string name="Fanampiana_FR">Aide</string>
+
+
+        <string name="Setting">Setting</string>
+        <string name="Setting_EN">Setting</string>
+        <string name="Setting_FR">Parametre</string>
+
+        <string name="Hiala">Hiala</string>
+        <string name="Hiala_EN">quit</string>
+        <string name="Hiala_FR">quitez</string>
+
+        <!--               End_Main.                -->
+
+
+
+        <!--                 Second                 -->
+
+        <string name="Enter_Anarana">Ampidiro ary ny anaranao</string>
+        <string name="Enter_Anarana_EN">Enter your name</string>
+        <string name="Enter_Anarana_FR">Entrez vos nom stp</string>
+
+
+
+        <string name="Ny_anaranao">Ny anaranao</string>
+        <string name="Ny_anaranao_EN">Your Name</string>
+        <string name="Ny_anaranao_FR">Votre Nom</string>
+
+
+        <string name="FITSI_DALAO">FITSI-DALAO:</string>
+        <string name="FITSI_DALAO_EN">GAME RULES:</string>
+        <string name="FITSI_DALAO_FR">REGLE DE JEUX:</string>
+
+
+
+        <string name="IrayFanotaniana">-Valiny iray ihany isam-panotaniana</string>
+        <string name="IrayFanotaniana_EN">-One answer for each question</string>
+        <string name="IrayFanotaniana_FR">-Une seul response pour chaque question</string>
+
+        <string name="IrayIsa">-Valiny marina iray mira isa iray</string>
+        <string name="IrayIsa_EN">-One correct answer means one point</string>
+        <string name="IrayIsa_FR">-Une  bonne response vaut un point</string>
+
+        <string name="dimyarivo">-Raha mahazo isa 10 ianao de mahazo 5000 ar</string>
+        <string name="dimyarivo_EN">-If you reach 10 point then you earn 5000ar</string>
+        <string name="dimyarivo_FR">-Si tu atteint les 10 pts alors tu gagne 5000ar</string>
+
+
+        <string name="Noho_izany">Noho izany:</string>
+        <string name="Noho_izany_EN">Then :</string>
+        <string name="Noho_izany_FR">Alors :</string>
+
+        <string name="vintana">MAHAZOA VITANA TSARA!!</string>
+        <string name="vintana_EN">GOOD LUCK!!</string>
+        <string name="vintana_FR">BONNE CHANCE!!</string>
+
+        <string name="Milalao1">Milalao</string>
+        <string name="Milalao1_EN">Start</string>
+        <string name="Milalao1_FR">Commencer</string>
+
+        <!--               End_Second             -->
+
+
+
+
+
+        <!--                 Third                -->
+        <string name="highest">++ Ny isa farany ambony indrindra dia:</string>
+        <string name="highest_EN">++ The high score is :</string>
+        <string name="highest_FR">++ Le meilleur score est:</string>
+
+        <string name="Telo">++ Ireo telo farany nahazo izany isa ambony izany:</string>
+        <string name="Telo_EN">++ The Last BIG three :</string>
+        <string name="Telo_FR">++ Les trois dernier qui a gagner plus de points</string>
+
+        <string name="avaozina">avaozina</string>
+        <string name="avaozina_EN">Renew</string>
+        <string name="avaozina_FR">Renouveller</string>
+
+        <!--               End_third               -->
+
+
+
+        <!--                Fourth                -->
+        <string name="note">Fampahafantarana</string>
+        <string name="note_EN">Note</string>
+        <string name="note_FR">Note</string>
+
+        <string name="momba">\t\t\tTsara ny mampafatatra anareo mpankafy ny jeux milliaridera fa afaka manontany ahy ianareo raha ohatra ka misy fanontaniana tianareo anontaniana. Na te halala  misymisy kokoa ny momba ahy </string>
+        <string name="momba_EN">\t\t\tIt\'grateful for us to let you know for all of billionary game fan that they can text us if they have some questions to ask or if they want just to know little bit about us  </string>
+        <string name="momba_FR">\t\t\tje vous informe que vous pouvais nous envoyer des message si vous aviez des questions à nous poser ou tout simplement avoir des information qui nous concerne</string>
+
+        <string name="fifandraisana">Mifandraisa aminay ary @alalan\'ny tambazotra serasers toy ny:</string>
+        <string name="fifandraisana_EN">So you can contact us by social networks such as:</string>
+        <string name="fifandraisana_FR">donc tu peux nous contacter via les reseaux sociaux comme:</string>
+        <!--               End_Fourth             -->
+
+
+
+
+        <!--                 Fifth                -->
+        <string name="Non_Disponible">Not Available</string>
+        <string name="Non_Disponible_EN">Not Available</string>
+        <string name="Non_Disponible_FR">Non Disponible</string>
+
+        <string name="beta">(mbola version beta ity..manasa anao hanao mise a jour Na miandry ny version manaraka..Misaotra Tompoko)</string>
+        <string name="beta_EN">(It\'s still beta version..please update or wait until the next version release..thank you)</string>
+        <string name="beta_FR">(C\'est encore une version beta..veuillez mettre a jour ou attendre le prochain version..merci pour votre comprehension)</string>
+        <!--               End_Fifth              -->
+
+
+
+
+        <!--                 Sixth                 -->
+        <string name="Question">Fanotaniana</string>
+        <string name="Question_EN">Question</string>
+        <string name="Question_FR">Question</string>
+
+        <string name="Isan_ny_marina">Isan ny marina</string>
+        <string name="Isan_ny_marina_EN">Number of true   :</string>
+        <string name="Isan_ny_marina_FR">la response vraie :</string>
+
+        <string name="Diso">Isan ny diso     :</string>
+        <string name="Diso_EN">Number of false   :</string>
+        <string name="Diso_FR">la response faux  :</string>
+
+
+        <!--               End_Sixth               -->
+
+
+
+
+
+        <!--                 seventh               -->
+        <string name="naoty">Ny Naotinao dia  =  </string>
+        <string name="naoty_EN">Your Score is  =  </string>
+        <string name="naoty_FR">Votre Score est  =  </string>
+
+
+        <string name="bilan">~Bilan ny lalao :</string>
+        <string name="bilan_EN">~Game balance sheet :</string>
+        <string name="bilan_FR">~Bilan du jeux :</string>
+
+
+        <string name="ambony">> isa ambony indrindra </string>
+        <string name="ambony_EN">> The highest Score </string>
+        <string name="ambony_FR">> Le meilleur score </string>
+
+        <string name="lalao_vaovao">lalao vaovao</string>
+        <string name="lalao_vaovao_EN">new game</string>
+        <string name="lalao_vaovao_FR">Nouveau jeux</string>
+
+
+        <string name="hanohy">hanohy</string>
+        <string name="hanohy_EN">continue</string>
+        <string name="hanohy_FR">continue</string>
+
+
+        <!--              End_seventh              -->
+
+
+        <!--                 Mainn.                 -->
+
+        <!--               End_Main.                -->
+
+        <!--                 Mainn.                 -->
+
+        <!--               End_Main.                -->
+
+
+
+
+</resources>
